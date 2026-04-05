@@ -1,4 +1,6 @@
 # Ultimate-CI-CD-Pipeline-Java-Maven-SonarQube-Argo-CD-and-Kubernetes
+<img width="1321" height="659" alt="image" src="https://github.com/user-attachments/assets/b4d3cea7-dd11-4a62-80a8-31dd17aadd36" />
+
 This repository hosts a production-grade, end-to-end CI/CD pipeline implementation for a Java-based application. It demonstrates the seamless integration of continuous integration (CI) and modern, declarative continuous delivery (CD) using a GitOps architectural approach.
 Core Architecture & Workflow
 
